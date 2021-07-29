@@ -1,0 +1,86 @@
+.blueBox {
+  width: 98%;
+  height: 214px;
+  background-color: rgb(67, 175, 224);
+  color: white;
+}
+
+.space {
+  padding: 1rem 1rem 0 1rem;
+  display: flex;
+}
+
+.careMidLogo {
+  margin: 11px 15px 5px 15px;
+  padding: 3.8rem 2.7rem;
+  background-color: white;
+  width: 180px;
+  color: rgb(146, 146, 146);
+  font-weight: 600;
+  font-size: 22px;
+  letter-spacing: 0.6px;
+}
+
+.blueBoxH2 {
+  margin-top: 1.5rem;
+}
+
+.cross {
+  margin: 0 0 0 23rem;
+  color: white;
+}
+
+.instruction {
+  margin-left: 35rem;
+  color: whitesmoke;
+  opacity: 80%;
+  font-size: small;
+}
+
+.questionLogo {
+  margin: 0px 15px 0 7px;
+  font-size: 15px;
+}
+
+.midMidSection {
+  grid-column: 2 / span 3;
+}
+
+.middleImg {
+  border: 1.9px solid rgb(177, 177, 177);
+  width: 658px;
+  height: 220px;
+  margin-top: 2rem;
+}
+
+.midLowerSection {
+  border: 1.9px solid rgb(177, 177, 177);
+  margin-bottom: 1rem;
+  width: 68%;
+}
+
+.midText {
+  padding: 1.4rem 1.8rem;
+}
+
+.h3 {
+  color: rgb(85, 165, 54);
+  font-size: 23px;
+}
+
+.lightText {
+  color: rgb(138, 133, 118);
+  padding: 5px 0px;
+  font-size: 16px;
+}
+
+.midText .paragraph {
+  letter-spacing: 0.2px;
+}
+
+.greyTxt {
+  color: rgb(119, 119, 119);
+  font-weight: 700;
+  font-size: 16px;
+  padding-bottom: 5px;
+}

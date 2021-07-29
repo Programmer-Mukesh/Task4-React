@@ -1,0 +1,53 @@
+.topLayout {
+  display: flex;
+  justify-content: space-between;
+  height: 90px;
+}
+
+.logo {
+  margin: 0.5rem 0rem 0rem 1rem;
+  width: 400px;
+  height: 75px;
+}
+
+.upperRight {
+  margin: 1rem;
+  padding-right: 7px;
+  font-size: 14px;
+}
+
+.logout {
+  text-align: end;
+  color: rgb(83, 82, 82);
+  font-weight: bold;
+}
+
+.blueText {
+  color: rgb(0, 174, 255);
+  cursor: pointer;
+  letter-spacing: -0.6px;
+}
+
+.bar {
+  color: rgb(129, 128, 128);
+  font-weight: bold;
+}
+
+.upperRightImages {
+  text-align: end;
+  margin-top: 5px;
+}
+
+.upperRightImages:hover {
+  cursor: pointer;
+}
+
+.fbLogo {
+  width: 81px;
+  height: 20px;
+}
+
+.twitterLogo {
+  width: 61px;
+  height: 20px;
+}

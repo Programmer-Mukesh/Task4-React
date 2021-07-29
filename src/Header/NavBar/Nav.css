@@ -1,0 +1,93 @@
+.ul {
+  display: flex;
+}
+
+.navLinks {
+  list-style: none;
+  padding-left: 4px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.8rem 0.5rem 0.28rem 0.5rem;
+}
+
+.menuLeft {
+  background-color: rgb(26, 196, 248);
+  color: white;
+  text-decoration: none;
+  padding: 5px 12px 4px 12px;
+  margin: -1.3px;
+}
+.menuLeft:hover {
+  background-color: rgb(17, 169, 216);
+  padding-bottom: 6px;
+}
+
+.menuRight {
+  background-color: rgb(94, 190, 56);
+  color: white;
+  text-decoration: none;
+  padding: 5px 12px 4px 12px;
+  margin: -1.3px;
+}
+.menuRight:hover {
+  background-color: rgb(70, 177, 28);
+  padding-bottom: 6px;
+}
+
+.senior {
+  position: relative;
+}
+
+.dropDown {
+  border: 6px solid rgb(17, 169, 216);
+  width: 250px;
+  margin-top: 6px;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #fff;
+  text-transform: capitalize;
+  display: block;
+}
+
+.ddInner {
+  margin: 12px 0 20px 3px;
+}
+
+.ddlist {
+  list-style: none;
+  padding: 2px 0 2px 15px;
+  display: block;
+  font-size: 15px;
+}
+
+.ddAtag {
+  text-decoration: none;
+}
+
+.ddBold {
+  font-size: 17px;
+  font-weight: 600;
+  color: rgb(68, 67, 67);
+}
+
+.ddflex {
+  width: 210px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.womenImg {
+  height: 50px;
+  margin: -1.8rem 0 1px 0;
+}
+
+.ddHr {
+  align-items: center;
+  width: 220px;
+  border: 0.5px dashed rgb(121, 194, 216);
+  margin: 5px 0 5px 5px;
+}

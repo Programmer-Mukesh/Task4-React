@@ -1,0 +1,36 @@
+.footerContainer1 {
+  margin-top: 7rem;
+  display: grid;
+  height: 180px;
+  grid-template-columns: 27% 27% 46%;
+}
+
+.gridItem1 {
+  padding-left: 1.3rem;
+}
+
+.container2Item1 {
+  padding-left: 1rem;
+}
+
+.footerContainer2 {
+  border: 1.9px solid rgb(177, 177, 177);
+  padding-top: 1rem;
+  display: grid;
+  height: 150px;
+  margin: 0 1rem 0 0.3rem;
+  grid-template-columns: 27% 27% 40%;
+}
+
+.footerContainer3 {
+  padding-top: 1.5rem;
+  display: grid;
+  height: 260px;
+  grid-template-columns: 27% 73%;
+}
+
+.descriptionPara {
+  color: rgb(158, 157, 157);
+  font-size: 14.5px;
+  padding-right: 2rem;
+}
