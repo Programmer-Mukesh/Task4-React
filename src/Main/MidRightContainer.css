@@ -1,0 +1,45 @@
+.midRightItem {
+  margin: 2px 18px;
+}
+
+.imageText {
+  background-image: url(booking-seeker-mhp-bg.jpg);
+  background-size: cover;
+  padding: 1.6rem;
+  width: 290px;
+  height: 360px;
+  text-align: center;
+  transform: translateX(58.7rem);
+}
+
+.midRightText {
+  background: none;
+  color: white;
+}
+
+.imageText h3 {
+  padding: 20px 0px 2px 0px;
+  font-weight: 400;
+  font-size: 29px;
+  letter-spacing: -0.9px;
+}
+
+.imageSubText {
+  font-size: 14px;
+  padding-top: 5px;
+}
+
+.imageText .para {
+  padding-top: 6px;
+  font-size: 17px;
+}
+
+.imageText .btn {
+  margin-top: 3.2rem;
+  font-size: 16px;
+  padding: 3px 10px 6px 10px;
+  color: rgb(22, 175, 168);
+  background-color: white;
+  border: 7px solid white;
+  border-radius: 7px;
+}

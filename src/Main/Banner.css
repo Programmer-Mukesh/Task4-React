@@ -1,0 +1,25 @@
+.banner {
+  display: flex;
+  max-height: 60px;
+}
+
+.adImg {
+  margin-left: 7.5rem;
+  width: 730px;
+  height: 58px;
+}
+
+.greeting {
+  padding: 1.4rem 1.3rem 0 1.3rem;
+  color: rgb(138, 138, 138);
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.name {
+  color: rgb(112, 194, 80);
+  font-family: "Courgette", cursive;
+  font-weight: 500;
+  font-size: 25px;
+  margin: 0px 0px 0px 5px;
+}
